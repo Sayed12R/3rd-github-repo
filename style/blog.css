@@ -8,3 +8,9 @@ li{
     color: blueviolet;
 
 }
+img{
+    width: 100px;
+    height: 100px;
+    padding: 40px 40px 10px 70px;
+    /* padding-bottom: 50px; */
+}
